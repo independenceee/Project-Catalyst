@@ -1,9 +1,9 @@
 # Proof of Achievement — Milestone 1
 
-| **Project Name** | 🇻🇳 _Cardano App Development Course: Curriculum Design and Material Preparation_              |
-| ---------------- | -------------------------------------------------------------------------------------------- |
-| **Project ID**   | **1300012**                                                                                  |
-| **Project Link** | [View on Catalyst Milestones Portal](https://milestones.projectcatalyst.io/projects/1300012) |
+| **Project Name** | [C2VN]: Hydra on Cardano – Complete Step-by-Step DApp Guide                                             |
+| ---------------- | ------------------------------------------------------------------------------------------------------- |
+| **Project ID**   | **1400002**                                                                                             |
+| **Project Link** | [View on Catalyst Milestones Portal](https://milestones.projectcatalyst.io/projects/1400002/milestones) |
 
 ---
 
