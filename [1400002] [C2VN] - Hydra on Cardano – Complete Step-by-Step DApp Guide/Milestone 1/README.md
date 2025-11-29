@@ -34,24 +34,24 @@ It ensures learners move smoothly from **fundamentals to advanced Hydra DApp dev
 
 All 16 lesson outlines have been prepared and documented.
 
-| #   | Title                                                   | Outline Link                                                 |
-| --- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| 1   | Introduction to Hydra                                   | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 2   | Deep Dive into Hydra Architecture                       | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 3   | Setting Up Your Hydra Development Environment           | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 4   | Installing and Configuring the Cardano Node             | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 5   | Installing and Configuring a Hydra Node                 | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 6   | Running Your First Hydra Head                           | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 7   | Troubleshooting Hydra Nodes                             | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 8   | Review and Preparation                                  | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 9   | Introduction to Hydra-powered DApps                     | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 10  | Designing the Architecture and Workflow of a Hydra DApp | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 11  | Setting Up a Smart Contract Development Environment     | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 12  | Writing Smart Contracts for Hydra                       | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 13  | Integrating Smart Contracts with the Hydra Backend      | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 14  | Building the Frontend Interface for a Hydra DApp        | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 15  | Testing and Validating the Hydra DApp                   | [Outline](https://docs.google.com/document/d/your-link-here) |
-| 16  | Deploying and Showcasing Your Hydra DApp                | [Outline](https://docs.google.com/document/d/your-link-here) |
+| #   | Title                                                   | Outline Link                                                                                            |
+| --- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 1   | Introduction to Hydra                                   | [Outline](https://docs.google.com/document/d/1DDSB94g2iFIjH8aERr-iPzetIPkP2u6RhJgMFPjBpFw/edit?tab=t.0) |
+| 2   | Deep Dive into Hydra Architecture                       | [Outline](https://docs.google.com/document/d/1Ai4UnRKV37vlmGE9do5vjyHgLIt3Y_AY0_nFQQDuK8g/edit?tab=t.0) |
+| 3   | Setting Up Your Hydra Development Environment           | [Outline](https://docs.google.com/document/d/1mGkTrM7kVmZ0Sewie0GHSF6kqVQjAtxZuDHRmYQ7UOM/edit?tab=t.0) |
+| 4   | Installing and Configuring the Cardano Node             | [Outline](https://docs.google.com/document/d/1vDYkMSpCjOYbzQB9rmr5i8TNAzvLGwnzGhCUI405UZo/edit?tab=t.0) |
+| 5   | Installing and Configuring a Hydra Node                 | [Outline](https://docs.google.com/document/d/1-cceYnPQV6Vp_fR7fv50PKZOcq3osR2bifh4Htyb8M4/edit?tab=t.0) |
+| 6   | Running Your First Hydra Head                           | [Outline](https://docs.google.com/document/d/1qsL7pd6_gcy-vCU8Ps2dzr-567djDV6po8MZGlmULhk/edit?tab=t.0) |
+| 7   | Troubleshooting Hydra Nodes                             | [Outline](https://docs.google.com/document/d/144pluTEcfQXuwaz8TPGoFSkaePYiyZ-8LSvTvL47eJY/edit?tab=t.0) |
+| 8   | Review and Preparation                                  | [Outline](https://docs.google.com/document/d/1wMuSeZ6OsgvKrmYyPZ2wiJdy7-V2wkp53jvUWzqUzPI/edit?tab=t.0) |
+| 9   | Introduction to Hydra-powered DApps                     | [Outline](https://docs.google.com/document/d/1P8AhUchfviCRgVfr9aCTtba9epio5ZknTdXTPziRfXg/edit?tab=t.0) |
+| 10  | Designing the Architecture and Workflow of a Hydra DApp | [Outline](https://docs.google.com/document/d/14pdNhG9ZfGmvtlrvdLuNOJKIgir_kl9jnb6k0yG9iP4/edit?tab=t.0) |
+| 11  | Setting Up a Smart Contract Development Environment     | [Outline](https://docs.google.com/document/d/14J4BT0GK-cLpvXpLRetzbWK4ZAlsqG7YI6gVXTfoo1Y/edit?tab=t.0) |
+| 12  | Writing Smart Contracts for Hydra                       | [Outline](https://docs.google.com/document/d/1P4RQ43wkY0fUFmE9CAeWWme527BpPqM7K_izsT8sYxE/edit?tab=t.0) |
+| 13  | Integrating Smart Contracts with the Hydra Backend      | [Outline](https://docs.google.com/document/d/1Fs-J3DMs-i5Nvue7PWUxOMJmSkSHGfTPlcKQN9hPuZU/edit?tab=t.0) |
+| 14  | Building the Frontend Interface for a Hydra DApp        | [Outline](https://docs.google.com/document/d/1n3pdzJMPQSzw6tJHjdOGbfvorrIzTjmAmotepSKA7x4/edit?tab=t.0) |
+| 15  | Testing and Validating the Hydra DApp                   | [Outline](https://docs.google.com/document/d/1-qNKdqqh5PvN70VyfHGsfdi5RCgkPBfCBdjcfIEyL5E/edit?tab=t.0) |
+| 16  | Deploying and Showcasing Your Hydra DApp                | [Outline](https://docs.google.com/document/d/1GHrb-D-vN3qjuAD2If73yDtHt6ZQrwa0gcDoAQ0TL3s/edit?tab=t.0) |
 
 ---
 
