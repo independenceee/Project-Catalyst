@@ -67,11 +67,9 @@ All 16 lesson outlines have been prepared and documented.
 
 ## 4. Marketing & Community Engagement
 
-| #   | Platform                   | Link / Screenshot                                                 |
-| --- | -------------------------- | ----------------------------------------------------------------- |
-| 1   | Facebook                   | [Screenshot & Post Link](https://drive.google.com/your-link-here) |
-| 2   | Telegram                   | [Screenshot & Post Link](https://drive.google.com/your-link-here) |
-| 3   | Marketing Description File | [Google Drive](https://drive.google.com/your-link-here)           |
+All marketing and community engagement activities for this milestone have been completed and are documented in the following Google Sheets file: [Marketing & Community Evidence](https://docs.google.com/spreadsheets/d/1RYYxEfoF_2tDkYjJNN5ZY7yhwcTrV9iANOWq0PKxjYc/edit?gid=1933080667#gid=1933080667)
+
+The spreadsheet contains links and screenshots of the published course introduction posts on Forum and Telegram, as well as the marketing activity description file, serving as consolidated evidence for this milestone.
 
 ---
 
