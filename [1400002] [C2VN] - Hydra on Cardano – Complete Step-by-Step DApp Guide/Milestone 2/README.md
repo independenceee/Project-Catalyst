@@ -94,16 +94,16 @@ All 8 videos are published on YouTube, professionally presented with description
 
 All code examples and resources for Milestone 2 are stored publicly in a GitHub repository:
 
-| #   | Title                         | YouTube Link                                       |
-| --- | ----------------------------- | -------------------------------------------------- |
-| 1   | Introduction to Hydra         | [Repository 1](https://youtube.com/your-link-here) |
-| 2   | Hydra Architecture            | [Repository 2](https://youtube.com/your-link-here) |
-| 3   | Hydra Development Environment | [Repository 3](https://youtube.com/your-link-here) |
-| 4   | Cardano Node Installation     | [Repository 4](https://youtube.com/your-link-here) |
-| 5   | Hydra Node Installation       | [Repository 5](https://youtube.com/your-link-here) |
-| 6   | Running Hydra Head            | [Repository 6](https://youtube.com/your-link-here) |
-| 7   | Troubleshooting Nodes         | [Repository 7](https://youtube.com/your-link-here) |
-| 8   | Review and Preparation        | [Repository 8](https://youtube.com/your-link-here) |
+| #   | Title                         | YouTube Link                                                                            |
+| --- | ----------------------------- | --------------------------------------------------------------------------------------- |
+| 1   | Introduction to Hydra         | [Repository 1](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_01) |
+| 2   | Hydra Architecture            | [Repository 2](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_02) |
+| 3   | Hydra Development Environment | [Repository 3](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_03) |
+| 4   | Cardano Node Installation     | [Repository 4](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_04) |
+| 5   | Hydra Node Installation       | [Repository 5](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_05) |
+| 6   | Running Hydra Head            | [Repository 6](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_06) |
+| 7   | Troubleshooting Nodes         | [Repository 7](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_07) |
+| 8   | Review and Preparation        | [Repository 8](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_08) |
 
 ---
 
