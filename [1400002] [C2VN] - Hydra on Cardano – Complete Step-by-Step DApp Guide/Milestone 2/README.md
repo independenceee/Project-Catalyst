@@ -35,7 +35,7 @@ All 8 lessons are aligned with the milestone learning objectives.
 | 7   | Troubleshooting Hydra Nodes                   | Identify and fix common errors                                | 30 min                |
 | 8   | Review and Preparation                        | Summarize learnings and prepare for Hydra DApp development    | 20 min                |
 
-**Teaching Plan Link:** [View Teaching Plan](https://docs.google.com/document/d/your-link-here)
+**Teaching Plan Link:** [View Teaching Plan](https://docs.google.com/spreadsheets/d/1OPeqCeJrTe8de3aZD_EMjkq5xOEDIzQmpqvgYqzy5M8/edit?gid=138672403#gid=138672403)
 
 ---
 
@@ -62,7 +62,7 @@ Each lesson has a detailed instructional article (≥1000 words) hosted on LMS o
 
 | #   | Title                         | Article Link                                                                        |
 | --- | ----------------------------- | ----------------------------------------------------------------------------------- |
-| 1   | Introduction to Hydra         | [Article 1](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_01.md) |
+| 1   | Introduction to Hydra         | [Article 1](https://hydra-tutorial.vercel.app/document/chapter-01/video-01)         |
 | 2   | Hydra Architecture            | [Article 2](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_02.md) |
 | 3   | Hydra Development Environment | [Article 3](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_03.md) |
 | 4   | Cardano Node Installation     | [Article 4](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_04.md) |
@@ -94,7 +94,7 @@ All 8 videos are published on YouTube, professionally presented with description
 
 All code examples and resources for Milestone 2 are stored publicly in a GitHub repository:
 
-| #   | Title                         | YouTube Link                                                                            |
+| #   | Title                         | Repository Link                                                                         |
 | --- | ----------------------------- | --------------------------------------------------------------------------------------- |
 | 1   | Introduction to Hydra         | [Repository 1](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_01) |
 | 2   | Hydra Architecture            | [Repository 2](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_02) |
@@ -119,7 +119,24 @@ Three exercises for this milestone are hosted on LMS, reinforcing key learning p
 
 ---
 
-## 7. Marketing & Community Engagement
+## 7. Learning Management System
+
+All resources for LMS are presented as follows:
+
+| #   | Title                         | LMS Link                                                                            |
+| --- | ----------------------------- | ----------------------------------------------------------------------------------- |
+| 1   | Introduction to Hydra         | [Lesson 1](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_01) |
+| 2   | Hydra Architecture            | [Lesson 2](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_02) |
+| 3   | Hydra Development Environment | [Lesson 3](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_03) |
+| 4   | Cardano Node Installation     | [Lesson 4](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_04) |
+| 5   | Hydra Node Installation       | [Lesson 5](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_05) |
+| 6   | Running Hydra Head            | [Lesson 6](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_06) |
+| 7   | Troubleshooting Nodes         | [Lesson 7](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_07) |
+| 8   | Review and Preparation        | [Lesson 8](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_08) |
+
+---
+
+## 8. Marketing & Community Engagement
 
 All marketing and community engagement activities for this milestone have been completed and are documented in the following Google Sheets file: [Marketing & Community Evidence](https://docs.google.com/spreadsheets/d/1RYYxEfoF_2tDkYjJNN5ZY7yhwcTrV9iANOWq0PKxjYc/edit?gid=1933080667#gid=1933080667)
 
