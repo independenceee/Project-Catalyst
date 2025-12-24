@@ -60,16 +60,16 @@ All 8 lessons are aligned with the milestone learning objectives.
 
 Each lesson has a detailed instructional article (≥1000 words) hosted on LMS or GitHub.
 
-| #   | Title                         | Article Link                                                                           |
-| --- | ----------------------------- | -------------------------------------------------------------------------------------- |
-| 1   | Introduction to Hydra         | [Read Article](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_01.md) |
-| 2   | Hydra Architecture            | [Read Article](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_02.md) |
-| 3   | Hydra Development Environment | [Read Article](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_03.md) |
-| 4   | Cardano Node Installation     | [Read Article](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_04.md) |
-| 5   | Hydra Node Installation       | [Read Article](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_05.md) |
-| 6   | Running Hydra Head            | [Read Article](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_06.md) |
-| 7   | Troubleshooting Nodes         | [Read Article](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_07.md) |
-| 8   | Review and Preparation        | [Read Article](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_08.md) |
+| #   | Title                         | Article Link                                                                        |
+| --- | ----------------------------- | ----------------------------------------------------------------------------------- |
+| 1   | Introduction to Hydra         | [Article 1](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_01.md) |
+| 2   | Hydra Architecture            | [Article 2](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_02.md) |
+| 3   | Hydra Development Environment | [Article 3](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_03.md) |
+| 4   | Cardano Node Installation     | [Article 4](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_04.md) |
+| 5   | Hydra Node Installation       | [Article 5](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_05.md) |
+| 6   | Running Hydra Head            | [Article 6](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_06.md) |
+| 7   | Troubleshooting Nodes         | [Article 7](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_07.md) |
+| 8   | Review and Preparation        | [Article 8](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_08.md) |
 
 ---
 
@@ -77,16 +77,16 @@ Each lesson has a detailed instructional article (≥1000 words) hosted on LMS o
 
 All 8 videos are published on YouTube, professionally presented with descriptions.
 
-| #   | Title                         | YouTube Link                                      |
-| --- | ----------------------------- | ------------------------------------------------- |
-| 1   | Introduction to Hydra         | [Watch Video](https://youtube.com/your-link-here) |
-| 2   | Hydra Architecture            | [Watch Video](https://youtube.com/your-link-here) |
-| 3   | Hydra Development Environment | [Watch Video](https://youtube.com/your-link-here) |
-| 4   | Cardano Node Installation     | [Watch Video](https://youtube.com/your-link-here) |
-| 5   | Hydra Node Installation       | [Watch Video](https://youtube.com/your-link-here) |
-| 6   | Running Hydra Head            | [Watch Video](https://youtube.com/your-link-here) |
-| 7   | Troubleshooting Nodes         | [Watch Video](https://youtube.com/your-link-here) |
-| 8   | Review and Preparation        | [Watch Video](https://youtube.com/your-link-here) |
+| #   | Title                         | YouTube Link                                  |
+| --- | ----------------------------- | --------------------------------------------- |
+| 1   | Introduction to Hydra         | [Video 1](https://youtube.com/your-link-here) |
+| 2   | Hydra Architecture            | [Video 2](https://youtube.com/your-link-here) |
+| 3   | Hydra Development Environment | [Video 3](https://youtube.com/your-link-here) |
+| 4   | Cardano Node Installation     | [Video 4](https://youtube.com/your-link-here) |
+| 5   | Hydra Node Installation       | [Video 5](https://youtube.com/your-link-here) |
+| 6   | Running Hydra Head            | [Video 6](https://youtube.com/your-link-here) |
+| 7   | Troubleshooting Nodes         | [Video 7](https://youtube.com/your-link-here) |
+| 8   | Review and Preparation        | [Video 8](https://youtube.com/your-link-here) |
 
 ---
 
@@ -94,7 +94,16 @@ All 8 videos are published on YouTube, professionally presented with description
 
 All code examples and resources for Milestone 2 are stored publicly in a GitHub repository:
 
-[Hydra Course GitHub Repository](https://github.com/your-org/hydra-course)
+| #   | Title                         | YouTube Link                                       |
+| --- | ----------------------------- | -------------------------------------------------- |
+| 1   | Introduction to Hydra         | [Repository 1](https://youtube.com/your-link-here) |
+| 2   | Hydra Architecture            | [Repository 2](https://youtube.com/your-link-here) |
+| 3   | Hydra Development Environment | [Repository 3](https://youtube.com/your-link-here) |
+| 4   | Cardano Node Installation     | [Repository 4](https://youtube.com/your-link-here) |
+| 5   | Hydra Node Installation       | [Repository 5](https://youtube.com/your-link-here) |
+| 6   | Running Hydra Head            | [Repository 6](https://youtube.com/your-link-here) |
+| 7   | Troubleshooting Nodes         | [Repository 7](https://youtube.com/your-link-here) |
+| 8   | Review and Preparation        | [Repository 8](https://youtube.com/your-link-here) |
 
 ---
 
@@ -131,14 +140,14 @@ The spreadsheet contains links and screenshots of the published course introduct
 
 ---
 
-## **Supporting Documents**
+## **Supporting Document**
 
-All milestone outputs are compiled here:  
-[Google Sheet Summary of Milestone 2](https://docs.google.com/spreadsheets/d/your-link-here)
+All related links and outputs are compiled here:  
+[Google Sheet Summary of Outputs](https://docs.google.com/spreadsheets/d/1OPeqCeJrTe8de3aZD_EMjkq5xOEDIzQmpqvgYqzy5M8/edit?gid=138672403#gid=138672403)
 
 ---
 
 ### **Notes**
 
-- All materials are **Vietnamese-focused**, designed for learners in the local ecosystem.
-- Screenshots, posts, and links provided to evidence milestone completion.
+- The course and all related materials are designed for the **Vietnamese community**.
+- Screenshots, documents, and posts are provided to demonstrate milestone completion.
