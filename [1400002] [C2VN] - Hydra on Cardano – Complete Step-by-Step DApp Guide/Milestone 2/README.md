@@ -27,13 +27,13 @@ All 8 lessons are aligned with the milestone learning objectives.
 | #   | Lesson Title                                  | Objective / Description                                       | Duration              |
 | --- | --------------------------------------------- | ------------------------------------------------------------- | --------------------- |
 | 1   | Introduction to Hydra                         | Explore Cardano Layer-2 scaling, Hydra overview               | 23 minutes 10 seconds |
-| 2   | Deep Dive into Hydra Architecture             | Understand Hydra Heads, participants, and channels            | 25 min                |
-| 3   | Setting Up Your Hydra Development Environment | Tools, dependencies, and best practices for Hydra development | 25 min                |
-| 4   | Installing and Configuring the Cardano Node   | Build foundational skills for operating Hydra                 | 40 min                |
-| 5   | Installing and Configuring a Hydra Node       | Step-by-step setup guide for new developers                   | 40 min                |
-| 6   | Running Your First Hydra Head                 | Launch, manage, and observe on-chain/off-chain activity       | 40 min                |
-| 7   | Troubleshooting Hydra Nodes                   | Identify and fix common errors                                | 30 min                |
-| 8   | Review and Preparation                        | Summarize learnings and prepare for Hydra DApp development    | 20 min                |
+| 2   | Deep Dive into Hydra Architecture             | Understand Hydra Heads, participants, and channels            | 16 minutes 23 seconds |
+| 3   | Setting Up Your Hydra Development Environment | Tools, dependencies, and best practices for Hydra development | 15 minutes 54 seconds |
+| 4   | Installing and Configuring the Cardano Node   | Build foundational skills for operating Hydra                 | 23 minutes 11 seconds |
+| 5   | Installing and Configuring a Hydra Node       | Step-by-step setup guide for new developers                   | 25 minutes 00 seconds |
+| 6   | Running Your First Hydra Head                 | Launch, manage, and observe on-chain/off-chain activity       | 24 minutes 41 seconds |
+| 7   | Troubleshooting Hydra Nodes                   | Identify and fix common errors                                | 22 minutes 01 seconds |
+| 8   | Review and Preparation                        | Summarize learnings and prepare for Hydra DApp development    | 21 minutes 47 seconds |
 
 **Teaching Plan Link:** [View Teaching Plan](https://docs.google.com/spreadsheets/d/1OPeqCeJrTe8de3aZD_EMjkq5xOEDIzQmpqvgYqzy5M8/edit?gid=138672403#gid=138672403)
 
