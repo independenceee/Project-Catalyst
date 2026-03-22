@@ -138,7 +138,7 @@ All resources for LMS are presented as follows:
 
 ## 8. Marketing & Community Engagement
 
-All marketing and community engagement activities for this milestone have been completed and are documented in the following Google Sheets file: [Marketing & Community Evidence](https://docs.google.com/spreadsheets/d/1RYYxEfoF_2tDkYjJNN5ZY7yhwcTrV9iANOWq0PKxjYc/edit?gid=1933080667#gid=1933080667)
+All marketing and community engagement activities for this milestone have been completed and are documented in the following Google Sheets file: [Marketing & Community Evidence](https://docs.google.com/spreadsheets/d/1RYYxEfoF_2tDkYjJNN5ZY7yhwcTrV9iANOWq0PKxjYc/edit?usp=sharing)
 
 The spreadsheet contains links and screenshots of the published course introduction posts on Forum and Telegram, as well as the marketing activity description file, serving as consolidated evidence for this milestone.
 
