@@ -79,13 +79,13 @@ All 8 videos are published on YouTube, professionally presented with description
 
 | #   | Title                         | YouTube Link                                  |
 | --- | ----------------------------- | --------------------------------------------- |
-| 1   | Introduction to Hydra         | [Video 1](https://youtube.com/your-link-here) |
-| 2   | Hydra Architecture            | [Video 2](https://youtube.com/your-link-here) |
-| 3   | Hydra Development Environment | [Video 3](https://youtube.com/your-link-here) |
-| 4   | Cardano Node Installation     | [Video 4](https://youtube.com/your-link-here) |
-| 5   | Hydra Node Installation       | [Video 5](https://youtube.com/your-link-here) |
-| 6   | Running Hydra Head            | [Video 6](https://youtube.com/your-link-here) |
-| 7   | Troubleshooting Nodes         | [Video 7](https://youtube.com/your-link-here) |
+| 1   | Introduction to Hydra         | [Video 1](https://www.youtube.com/watch?v=3rO7EuTN3t8&t=313s) |
+| 2   | Hydra Architecture            | [Video 2](https://www.youtube.com/watch?v=sfVm6rp-dnU&t=719s) |
+| 3   | Hydra Development Environment | [Video 3](https://www.youtube.com/watch?v=oYMKJjB7Qkc&t=337s) |
+| 4   | Cardano Node Installation     | [Video 4](https://www.youtube.com/watch?v=K36algXxY3s&t=1099s) |
+| 5   | Hydra Node Installation       | [Video 5](https://www.youtube.com/watch?v=7w8kfQ_yFhc&t=251s) |
+| 6   | Running Hydra Head            | [Video 6](https://www.youtube.com/watch?v=Qp5a7_BH3f4&t=480s) |
+| 7   | Troubleshooting Nodes         | [Video 7](https://www.youtube.com/watch?v=HSQmD5YaVbM&t=779s) |
 | 8   | Review and Preparation        | [Video 8](https://youtube.com/your-link-here) |
 
 ---
