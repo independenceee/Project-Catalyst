@@ -77,16 +77,16 @@ Each lesson has a detailed instructional article (≥1000 words) hosted on LMS o
 
 All 8 videos are published on YouTube, professionally presented with descriptions.
 
-| #   | Title                         | YouTube Link                                  |
-| --- | ----------------------------- | --------------------------------------------- |
-| 1   | Introduction to Hydra         | [Video 1](https://www.youtube.com/watch?v=3rO7EuTN3t8&t=313s) |
-| 2   | Hydra Architecture            | [Video 2](https://www.youtube.com/watch?v=sfVm6rp-dnU&t=719s) |
-| 3   | Hydra Development Environment | [Video 3](https://www.youtube.com/watch?v=oYMKJjB7Qkc&t=337s) |
+| #   | Title                         | YouTube Link                                                   |
+| --- | ----------------------------- | -------------------------------------------------------------- |
+| 1   | Introduction to Hydra         | [Video 1](https://www.youtube.com/watch?v=3rO7EuTN3t8&t=313s)  |
+| 2   | Hydra Architecture            | [Video 2](https://www.youtube.com/watch?v=sfVm6rp-dnU&t=719s)  |
+| 3   | Hydra Development Environment | [Video 3](https://www.youtube.com/watch?v=oYMKJjB7Qkc&t=337s)  |
 | 4   | Cardano Node Installation     | [Video 4](https://www.youtube.com/watch?v=K36algXxY3s&t=1099s) |
-| 5   | Hydra Node Installation       | [Video 5](https://www.youtube.com/watch?v=7w8kfQ_yFhc&t=251s) |
-| 6   | Running Hydra Head            | [Video 6](https://www.youtube.com/watch?v=Qp5a7_BH3f4&t=480s) |
-| 7   | Troubleshooting Nodes         | [Video 7](https://www.youtube.com/watch?v=HSQmD5YaVbM&t=779s) |
-| 8   | Review and Preparation        | [Video 8](https://youtube.com/your-link-here) |
+| 5   | Hydra Node Installation       | [Video 5](https://www.youtube.com/watch?v=7w8kfQ_yFhc&t=251s)  |
+| 6   | Running Hydra Head            | [Video 6](https://www.youtube.com/watch?v=Qp5a7_BH3f4&t=480s)  |
+| 7   | Troubleshooting Nodes         | [Video 7](https://www.youtube.com/watch?v=HSQmD5YaVbM&t=779s)  |
+| 8   | Review and Preparation        | [Video 8](https://www.youtube.com/watch?v=khV9Ew6bBgc)         |
 
 ---
 
@@ -123,22 +123,22 @@ Three exercises for this milestone are hosted on LMS, reinforcing key learning p
 
 All resources for LMS are presented as follows:
 
-| #   | Title                         | LMS Link                                                                            |
-| --- | ----------------------------- | ----------------------------------------------------------------------------------- |
-| 1   | Introduction to Hydra         | [Lesson 1](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_01) |
-| 2   | Hydra Architecture            | [Lesson 2](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_02) |
-| 3   | Hydra Development Environment | [Lesson 3](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_03) |
-| 4   | Cardano Node Installation     | [Lesson 4](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_04) |
-| 5   | Hydra Node Installation       | [Lesson 5](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_05) |
-| 6   | Running Hydra Head            | [Lesson 6](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_06) |
-| 7   | Troubleshooting Nodes         | [Lesson 7](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_07) |
-| 8   | Review and Preparation        | [Lesson 8](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_08) |
+| #   | Title                         | LMS Link                                                                                                                                                                                                 |
+| --- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Introduction to Hydra         | [Lesson 1](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/introduction-to-hydra-exploring-the-future-of-cardanos-layer-2-scaling-and-practical-use-cases)    |
+| 2   | Hydra Architecture            | [Lesson 2](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/deep-dive-into-hydra-architecture-how-heads-participants-and-channels-work-together)               |
+| 3   | Hydra Development Environment | [Lesson 3](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/setting-up-your-hydra-development-environment-tools-dependencies-and-best-practices)               |
+| 4   | Cardano Node Installation     | [Lesson 4](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/installing-and-configuring-the-cardano-node-building-the-foundation-for-hydra-operations)          |
+| 5   | Hydra Node Installation       | [Lesson 5](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/installing-and-configuring-a-hydra-node-step-by-step-setup-guide-for-new-developers)               |
+| 6   | Running Hydra Head            | [Lesson 6](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/running-your-first-hydra-head-launching-managing-and-observing-on-chain-and-off-chain-activity)    |
+| 7   | Troubleshooting Nodes         | [Lesson 7](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/troubleshooting-hydra-nodes-understanding-common-errors-and-how-to-fix-them-effectively)           |
+| 8   | Review and Preparation        | [Lesson 8](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/review-and-preparation-summarizing-key-learnings-and-setting-the-stage-for-hydra-dapp-development) |
 
 ---
 
 ## 8. Marketing & Community Engagement
 
-All marketing and community engagement activities for this milestone have been completed and are documented in the following Google Sheets file: [Marketing & Community Evidence](https://docs.google.com/spreadsheets/d/1RYYxEfoF_2tDkYjJNN5ZY7yhwcTrV9iANOWq0PKxjYc/edit?usp=sharing)
+All marketing and community engagement activities for this milestone have been completed and are documented in the following Google Sheets file: [Marketing & Community Evidence](https://docs.google.com/spreadsheets/d/1RYYxEfoF_2tDkYjJNN5ZY7yhwcTrV9iANOWq0PKxjYc/edit?gid=129730739#gid=129730739)
 
 The spreadsheet contains links and screenshots of the published course introduction posts on Forum and Telegram, as well as the marketing activity description file, serving as consolidated evidence for this milestone.
 
