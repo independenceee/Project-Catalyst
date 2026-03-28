@@ -60,16 +60,16 @@ All 8 lessons are aligned with the milestone learning objectives.
 
 Each lesson has a detailed instructional article (≥1000 words) hosted on LMS or GitHub.
 
-| #   | Title                         | Article Link                                                                        |
-| --- | ----------------------------- | ----------------------------------------------------------------------------------- |
-| 1   | Introduction to Hydra         | [Article 1](https://hydra-tutorial.vercel.app/document/chapter-01/video-01)         |
-| 2   | Hydra Architecture            | [Article 2](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_02.md) |
-| 3   | Hydra Development Environment | [Article 3](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_03.md) |
-| 4   | Cardano Node Installation     | [Article 4](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_04.md) |
-| 5   | Hydra Node Installation       | [Article 5](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_05.md) |
-| 6   | Running Hydra Head            | [Article 6](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_06.md) |
-| 7   | Troubleshooting Nodes         | [Article 7](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_07.md) |
-| 8   | Review and Preparation        | [Article 8](https://github.com/your-org/hydra-course/blob/main/Lessons/Video_08.md) |
+| #   | Title                         | Article Link                                                                   |
+| --- | ----------------------------- | ------------------------------------------------------------------------------ |
+| 1   | Introduction to Hydra         | [Article 1](https://hydra-course-2025.vercel.app/document/chapter-01/video-01) |
+| 2   | Hydra Architecture            | [Article 2](https://hydra-course-2025.vercel.app/document/chapter-01/video-02) |
+| 3   | Hydra Development Environment | [Article 3](https://hydra-course-2025.vercel.app/document/chapter-01/video-03) |
+| 4   | Cardano Node Installation     | [Article 4](https://hydra-course-2025.vercel.app/document/chapter-01/video-04) |
+| 5   | Hydra Node Installation       | [Article 5](https://hydra-course-2025.vercel.app/document/chapter-02/video-05) |
+| 6   | Running Hydra Head            | [Article 6](https://hydra-course-2025.vercel.app/document/chapter-02/video-06) |
+| 7   | Troubleshooting Nodes         | [Article 7](https://hydra-course-2025.vercel.app/document/chapter-02/video-07) |
+| 8   | Review and Preparation        | [Article 8](https://hydra-course-2025.vercel.app/document/chapter-02/video-08) |
 
 ---
 
@@ -109,13 +109,18 @@ All code examples and resources for Milestone 2 are stored publicly in a GitHub 
 
 ## 6. Practical Exercises
 
-Three exercises for this milestone are hosted on LMS, reinforcing key learning points.
+All exercises for this milestone are hosted on LMS, reinforcing key learning points.
 
-| #   | Lesson      | Exercise Link                                                                                |
-| --- | ----------- | -------------------------------------------------------------------------------------------- |
-| 1   | Lessons 1-3 | [View Exercise](https://github.com/your-org/hydra-course/blob/main/Exercises/Exercise_01.md) |
-| 2   | Lessons 4-6 | [View Exercise](https://github.com/your-org/hydra-course/blob/main/Exercises/Exercise_02.md) |
-| 3   | Lessons 7-8 | [View Exercise](https://github.com/your-org/hydra-course/blob/main/Exercises/Exercise_03.md) |
+| #   | Lesson    | Exercise Link                                                                                  |
+| --- | --------- | ---------------------------------------------------------------------------------------------- |
+| 1   | Lessons 1 | [Exercise 01](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_01.md) |
+| 2   | Lessons 2 | [Exercise 02](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_02.md) |
+| 3   | Lessons 3 | [Exercise 03](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_03.md) |
+| 4   | Lessons 4 | [Exercise 04](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_04.md) |
+| 5   | Lessons 5 | [Exercise 05](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_05.md) |
+| 6   | Lessons 6 | [Exercise 06](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_06.md) |
+| 7   | Lessons 7 | [Exercise 07](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_07.md) |
+| 8   | Lessons 8 | [Exercise 08](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_08.md) |
 
 ---
 
