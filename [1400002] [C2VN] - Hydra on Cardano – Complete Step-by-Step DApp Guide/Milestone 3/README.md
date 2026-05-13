@@ -46,19 +46,19 @@ All 8 lessons are aligned with the milestone learning objectives.
 
 8 slide decks prepared corresponding to each video, stored in Google Drive.
 
-| #    | Title                                                   | Slide Link                                                                             |
-| ---- | ------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 9    | Introduction to Hydra-powered DApps                     | [Slide 9](https://docs.google.com/presentation/d/16XjWCYfsjugHwTKSeluslssTU13uLa4v)    |
-| 10   | Designing the Architecture and Workflow of a Hydra DApp | [Slide 10](https://docs.google.com/presentation/d/1Vti75V7p439qFaSd-iHbOjgzpzn0AbHR)   |
-| 11.1 | Setting Up a Smart Contract Development Environment     | [Slide 11.1](https://docs.google.com/presentation/d/1gUveo68EbyMDkEUiVd-NG17FIn0b53WA) |
-| 11.2 | Setting Up a Smart Contract Development Environment     | [Slide 11.2](https://docs.google.com/presentation/d/1gUveo68EbyMDkEUiVd-NG17FIn0b53WA) |
-| 12   | Writing Smart Contracts for Hydra                       | [Slide 12](https://docs.google.com/presentation/d/1tI3DYQafqnGvi3W5Wvc1MvJ4RBBrWxSy)   |
-| 13   | Integrating Smart Contracts with the Hydra Backend      | [Slide 13](https://docs.google.com/presentation/d/1ghsPDCpDkimMP_ihMHQlK33sJV0k8BJm)   |
-| 14.1 | Building the Frontend Interface for a Hydra DApp        | [Slide 14.1](https://docs.google.com/presentation/d/1lxgBPT84J0FszsPkRIswWZRGYCIJ5t5d) |
-| 14.2 | Building the Frontend Interface for a Hydra DApp        | [Slide 14.2](https://docs.google.com/presentation/d/1lxgBPT84J0FszsPkRIswWZRGYCIJ5t5d) |
-| 15.1 | Testing and Validating the Hydra DApp                   | [Slide 15.1](https://docs.google.com/presentation/d/1xUWKue1tiF-efS0N0t-WxAJVUBoTfYlM) |
-| 15.2 | Testing and Validating the Hydra DApp                   | [Slide 15.2](https://docs.google.com/presentation/d/1xUWKue1tiF-efS0N0t-WxAJVUBoTfYlM) |
-| 16   | Deploying and Showcasing Your Hydra DApp                | [Slide 16](https://docs.google.com/presentation/d/10m66BY47RXPM5_YE5bKxtsch-XCFDkuY)   |
+| #    | Title                                                   | Slide Link                                                                                       |
+| ---- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 9    | Introduction to Hydra-powered DApps                     | [Slide 9](https://drive.google.com/open?id=1P-un2cXIb6pdKN90sw1bAy6GbGjpHUAv&usp=drive_copy)     |
+| 10   | Designing the Architecture and Workflow of a Hydra DApp | [Slide 10](https://drive.google.com/open?id=1EVTQuNn81uDLmljz-wKs4JqRXlgTUCIP&usp=drive_copy)    |
+| 11.1 | Setting Up a Smart Contract Development Environment     | [Slide 11.1](hhttps://drive.google.com/open?id=14Ea8zoljYgeNoTVk3JRb3S7G5kEEPEX-&usp=drive_copy) |
+| 11.2 | Setting Up a Smart Contract Development Environment     | [Slide 11.2](https://drive.google.com/open?id=1ryFWmAbdLRtSA_JYX1PCVBwjIIatDjzL&usp=drive_copy)  |
+| 12   | Writing Smart Contracts for Hydra                       | [Slide 12](https://drive.google.com/open?id=1j-WqOkifHnQzio_h5DnBcKoTKmkezKB3&usp=drive_copy)    |
+| 13   | Integrating Smart Contracts with the Hydra Backend      | [Slide 13](https://drive.google.com/open?id=1vtL6KIxv8E67ui-pN5xlh4SnCIOyUmgG&usp=drive_copy)    |
+| 14.1 | Building the Frontend Interface for a Hydra DApp        | [Slide 14.1](https://drive.google.com/open?id=1CcC4w-N_e92xU1cmkm2Zb4ldXJcfAgyO&usp=drive_copy)  |
+| 14.2 | Building the Frontend Interface for a Hydra DApp        | [Slide 14.2](https://drive.google.com/open?id=1MtTVPP4QpebutUyR1jHrj1GZKnL7nRkX&usp=drive_copy)  |
+| 15.1 | Testing and Validating the Hydra DApp                   | [Slide 15.1](https://drive.google.com/open?id=1ual29GqzrIgt-YlbYunHOnnvylADsvsj&usp=drive_copy)  |
+| 15.2 | Testing and Validating the Hydra DApp                   | [Slide 15.2](https://drive.google.com/open?id=1xyc_XIIiSZ-ITgSN8pOo19Rs-NGwKcpb&usp=drive_copy)  |
+| 16   | Deploying and Showcasing Your Hydra DApp                | [Slide 16](https://drive.google.com/open?id=1RPJxc1wKEHkXqdrlIdjWzA4glxE1BK7h&usp=drive_copy)    |
 
 ---
 
@@ -66,19 +66,19 @@ All 8 lessons are aligned with the milestone learning objectives.
 
 Each lesson has a detailed instructional article (≥1000 words) hosted on LMS or GitHub.
 
-| #    | Title                                                   | Article Link                                                                      |
-| ---- | ------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 9    | Introduction to Hydra-powered DApps                     | [Article 9](https://hydra-course-2025.vercel.app/document/chapter-01/video-01)    |
-| 10   | Designing the Architecture and Workflow of a Hydra DApp | [Article 10](https://hydra-course-2025.vercel.app/document/chapter-01/video-02)   |
-| 11.1 | Setting Up a Smart Contract Development Environment     | [Article 11.1](https://hydra-course-2025.vercel.app/document/chapter-01/video-03) |
-| 11.2 | Setting Up a Smart Contract Development Environment     | [Article 11.2](https://hydra-course-2025.vercel.app/document/chapter-01/video-04) |
-| 12   | Writing Smart Contracts for Hydra                       | [Article 12](https://hydra-course-2025.vercel.app/document/chapter-02/video-05)   |
-| 13   | Integrating Smart Contracts with the Hydra Backend      | [Article 13](https://hydra-course-2025.vercel.app/document/chapter-02/video-06)   |
-| 14.1 | Building the Frontend Interface for a Hydra DApp        | [Article 14.1](https://hydra-course-2025.vercel.app/document/chapter-02/video-07) |
-| 14.2 | Building the Frontend Interface for a Hydra DApp        | [Article 14.2](https://hydra-course-2025.vercel.app/document/chapter-02/video-07) |
-| 15.1 | Testing and Validating the Hydra DApp                   | [Article 15.1](https://hydra-course-2025.vercel.app/document/chapter-02/video-07) |
-| 15.2 | Testing and Validating the Hydra DApp                   | [Article 15.2](https://hydra-course-2025.vercel.app/document/chapter-02/video-07) |
-| 16   | Deploying and Showcasing Your Hydra DApp                | [Article 16](https://hydra-course-2025.vercel.app/document/chapter-02/video-08)   |
+| #    | Title                                                   | Article Link                                                                        |
+| ---- | ------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 9    | Introduction to Hydra-powered DApps                     | [Article 9](https://hydra-course-2025.vercel.app/document/chapter-03/video-09)      |
+| 10   | Designing the Architecture and Workflow of a Hydra DApp | [Article 10](https://hydra-course-2025.vercel.app/document/chapter-03/video-10)     |
+| 11.1 | Setting Up a Smart Contract Development Environment     | [Article 11.1](https://hydra-course-2025.vercel.app/document/chapter-04/video-11-1) |
+| 11.2 | Setting Up a Smart Contract Development Environment     | [Article 11.2](https://hydra-course-2025.vercel.app/document/chapter-04/video-11-2) |
+| 12   | Writing Smart Contracts for Hydra                       | [Article 12](https://hydra-course-2025.vercel.app/document/chapter-04/video-12)     |
+| 13   | Integrating Smart Contracts with the Hydra Backend      | [Article 13](https://hydra-course-2025.vercel.app/document/chapter-04/video-13)     |
+| 14.1 | Building the Frontend Interface for a Hydra DApp        | [Article 14.1](https://hydra-course-2025.vercel.app/document/chapter-04/video-14-1) |
+| 14.2 | Building the Frontend Interface for a Hydra DApp        | [Article 14.2](https://hydra-course-2025.vercel.app/document/chapter-04/video-14-2) |
+| 15.1 | Testing and Validating the Hydra DApp                   | [Article 15.1](https://hydra-course-2025.vercel.app/document/chapter-04/video-15-1) |
+| 15.2 | Testing and Validating the Hydra DApp                   | [Article 15.2](https://hydra-course-2025.vercel.app/document/chapter-04/video-15-2) |
+| 16   | Deploying and Showcasing Your Hydra DApp                | [Article 16](https://hydra-course-2025.vercel.app/document/chapter-04/video-16)     |
 
 ---
 
@@ -126,19 +126,19 @@ All code examples and resources for Milestone 2 are stored publicly in a GitHub 
 
 All exercises for this milestone are hosted on LMS, reinforcing key learning points.
 
-| #    | Lesson       | Exercise Link                                                                                  |
-| ---- | ------------ | ---------------------------------------------------------------------------------------------- |
-| 9    | Lessons 9    | [Exercise 01](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_01.md) |
-| 10   | Lessons 10   | [Exercise 02](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_02.md) |
-| 11.1 | Lessons 11.1 | [Exercise 03](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_03.md) |
-| 11.2 | Lessons 11.2 | [Exercise 04](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_04.md) |
-| 12   | Lessons 12   | [Exercise 05](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_05.md) |
-| 13   | Lessons 13   | [Exercise 06](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_06.md) |
-| 14.1 | Lessons 14.1 | [Exercise 07](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_07.md) |
-| 14.2 | Lessons 14.2 | [Exercise 07](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_07.md) |
-| 15.1 | Lessons 15.1 | [Exercise 08](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_08.md) |
-| 15.2 | Lessons 15.2 | [Exercise 08](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_08.md) |
-| 16   | Lessons 16   | [Exercise 08](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_08.md) |
+| #    | Lesson       | Exercise Link                                                                                      |
+| ---- | ------------ | -------------------------------------------------------------------------------------------------- |
+| 9    | Lessons 9    | [Exercise 09](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_09.md)     |
+| 10   | Lessons 10   | [Exercise 10](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_10.md)     |
+| 11.1 | Lessons 11.1 | [Exercise 11.1](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_11_1.md) |
+| 11.2 | Lessons 11.2 | [Exercise 11.2](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_11_2.md) |
+| 12   | Lessons 12   | [Exercise 12](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_12.md)     |
+| 13   | Lessons 13   | [Exercise 13](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_13.md)     |
+| 14.1 | Lessons 14.1 | [Exercise 14.1](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_14_1.md) |
+| 14.2 | Lessons 14.2 | [Exercise 14.2](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_14_2.md) |
+| 15.1 | Lessons 15.1 | [Exercise 15.1](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_15_1.md) |
+| 15.2 | Lessons 15.2 | [Exercise 15.2](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_15_2.md) |
+| 16   | Lessons 16   | [Exercise 16](https://github.com/cardano2vn/Hydra-Course-2025/blob/main/Exercises/video_16.md)     |
 
 ---
 
@@ -146,19 +146,19 @@ All exercises for this milestone are hosted on LMS, reinforcing key learning poi
 
 All resources for LMS are presented as follows:
 
-| #    | Title                                    | LMS Link                                                                                                                                                                                                              |
-| ---- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9    | Introduction to Hydra-powered DApps      | [Lesson 9](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/introduction-to-hydra-exploring-the-future-of-cardanos-layer-2-scaling-and-practical-use-cases)                 |
-| 10   | DApp architecture design                 | [Lesson 10](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/deep-dive-into-hydra-architecture-how-heads-participants-and-channels-work-together)                           |
-| 11.1 | Setting up a smart contract environment  | [Lesson 11.1](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/setting-up-your-hydra-development-environment-tools-dependencies-and-best-practices)                         |
-| 11.2 | Setting up a smart contract environment  | [Lesson 11.2](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/setting-up-your-hydra-development-environment-tools-dependencies-and-best-practices)                         |
-| 12   | Writing Smart Contracts for Hydra        | [Lesson 12](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/installing-and-configuring-the-cardano-node-building-the-foundation-for-hydra-operations)                      |
-| 13   | Integrating Contracts with Hydra Backend | [Lesson 13](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/installing-and-configuring-a-hydra-node-step-by-step-setup-guide-for-new-developers)                           |
-| 14.1 | Building a Frontend                      | [Lesson 14.1](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/installing-and-configuring-a-hydra-node-step-by-step-setup-guide-for-new-developers)                         |
-| 14.2 | Building a Frontend                      | [Lesson 14.2](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/installing-and-configuring-a-hydra-node-step-by-step-setup-guide-for-new-developers)                         |
-| 15.1 | Testing Hydra DApp                       | [Lesson 15.1](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/running-your-first-hydra-head-launching-managing-and-observing-on-chain-and-off-chain-activity)              |
-| 15.2 | Testing Hydra DApp                       | [Lesson 15.2](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/15-2-testing-and-validating-the-hydra-dapp-simulating-multi-participant-scenarios-and-measuring-performance) |
-| 16   | Deployment & Community Demo              | [Lesson 16](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/16-deploying-and-showcasing-your-hydra-dapp-launching-to-the-community-and-presenting-real-world-results)      |
+| #    | Title                                    | LMS Link                                                                                                                                                                                                               |
+| ---- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9    | Introduction to Hydra-powered DApps      | [Lesson 9](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/09-introduction-to-hydra-powered-dapps-why-and-how-to-build-high-speed-applications-on-hydra)                    |
+| 10   | DApp architecture design                 | [Lesson 10](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/10-designing-the-architecture-and-workflow-of-a-hydra-dapp-structuring-smart-contracts-backend-and-ui-layers)   |
+| 11.1 | Setting up a smart contract environment  | [Lesson 11.1](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/11-1-setting-up-a-smart-contract-development-environment-preparing-tools-and-frameworks-for-hydra)            |
+| 11.2 | Setting up a smart contract environment  | [Lesson 11.2](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/11-2-setting-up-a-smart-contract-development-environment-preparing-tools-and-frameworks-for-hydra)            |
+| 12   | Writing Smart Contracts for Hydra        | [Lesson 12](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/12-writing-smart-contracts-for-hydra-implementing-and-testing-logic-with-aiken-or-plutus)                       |
+| 13   | Integrating Contracts with Hydra Backend | [Lesson 13](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/13-integrating-smart-contracts-with-the-hydra-backend-connecting-off-chain-code-to-hydra-heads)                 |
+| 14.1 | Building a Frontend                      | [Lesson 14.1](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/14-1-building-the-frontend-interface-for-a-hydra-dapp-real-time-interaction-and-state-synchronization)        |
+| 14.2 | Building a Frontend                      | [Lesson 14.2](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/14-2-building-the-frontend-interface-for-a-hydra-dapp-real-time-interaction-and-state-synchronization)        |
+| 15.1 | Testing Hydra DApp                       | [Lesson 15.1](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/15-1-testing-and-validating-the-hydra-dapp-simulating-multi-participant-scenarios-and-measuring-performance/) |
+| 15.2 | Testing Hydra DApp                       | [Lesson 15.2](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/15-2-testing-and-validating-the-hydra-dapp-simulating-multi-participant-scenarios-and-measuring-performance)  |
+| 16   | Deployment & Community Demo              | [Lesson 16](https://lms.cardano2vn.io/courses/hydra-on-cardano-complete-step-by-step-dapp-guide/lesson/16-deploying-and-showcasing-your-hydra-dapp-launching-to-the-community-and-presenting-real-world-results)       |
 
 ---
 
