@@ -106,19 +106,19 @@ All 8 videos are published on YouTube, professionally presented with description
 
 All code examples and resources for Milestone 2 are stored publicly in a GitHub repository:
 
-| #    | Title                                                   | Repository Link                                                                           |
-| ---- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 9    | Introduction to Hydra-powered DApps                     | [Repository 9](https://hydra-course-2025.vercel.app/document/chapter-01/Repository-01)    |
-| 10   | Designing the Architecture and Workflow of a Hydra DApp | [Repository 10](https://hydra-course-2025.vercel.app/document/chapter-01/Repository-02)   |
-| 11.1 | Setting Up a Smart Contract Development Environment     | [Repository 11.1](https://hydra-course-2025.vercel.app/document/chapter-01/Repository-03) |
-| 11.2 | Setting Up a Smart Contract Development Environment     | [Repository 11.2](https://hydra-course-2025.vercel.app/document/chapter-01/Repository-04) |
-| 12   | Writing Smart Contracts for Hydra                       | [Repository 12](https://hydra-course-2025.vercel.app/document/chapter-02/Repository-05)   |
-| 13   | Integrating Smart Contracts with the Hydra Backend      | [Repository 13](https://hydra-course-2025.vercel.app/document/chapter-02/Repository-06)   |
-| 14.1 | Building the Frontend Interface for a Hydra DApp        | [Repository 14.1](https://hydra-course-2025.vercel.app/document/chapter-02/Repository-07) |
-| 14.2 | Building the Frontend Interface for a Hydra DApp        | [Repository 14.2](https://hydra-course-2025.vercel.app/document/chapter-02/Repository-07) |
-| 15.1 | Testing and Validating the Hydra DApp                   | [Repository 15.1](https://hydra-course-2025.vercel.app/document/chapter-02/Repository-07) |
-| 15.2 | Testing and Validating the Hydra DApp                   | [Repository 15.2](https://hydra-course-2025.vercel.app/document/chapter-02/Repository-07) |
-| 16   | Deploying and Showcasing Your Hydra DApp                | [Repository 16](https://hydra-course-2025.vercel.app/document/chapter-02/video-08)        |
+| #    | Title                                                   | Repository Link                                                                              |
+| ---- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 9    | Introduction to Hydra-powered DApps                     | [Repository 09](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_09)     |
+| 10   | Designing the Architecture and Workflow of a Hydra DApp | [Repository 10](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_10)     |
+| 11.1 | Setting Up a Smart Contract Development Environment     | [Repository 11.1](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_11_1) |
+| 11.2 | Setting Up a Smart Contract Development Environment     | [Repository 11.2](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_11_2) |
+| 12   | Writing Smart Contracts for Hydra                       | [Repository 12](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_12)     |
+| 13   | Integrating Smart Contracts with the Hydra Backend      | [Repository 13](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_13)     |
+| 14.1 | Building the Frontend Interface for a Hydra DApp        | [Repository 14.1](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_14_1) |
+| 14.2 | Building the Frontend Interface for a Hydra DApp        | [Repository 14.2](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_14_2) |
+| 15.1 | Testing and Validating the Hydra DApp                   | [Repository 15.1](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_15_1) |
+| 15.2 | Testing and Validating the Hydra DApp                   | [Repository 15.2](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_15_2) |
+| 16   | Deploying and Showcasing Your Hydra DApp                | [Repository 16](https://github.com/cardano2vn/Hydra-Course-2025/tree/main/Code/video_16)     |
 
 ---
 
