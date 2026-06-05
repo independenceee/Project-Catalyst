@@ -92,21 +92,21 @@ Each lesson has a detailed instructional article (≥1000 words) hosted on LMS o
 
 All 8 videos are published on YouTube, professionally presented with descriptions.
 
-| #    | Title                                                   | YouTube Link                                                                    |
-| ---- | ------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 9    | Introduction to Hydra-powered DApps                     | [Video 9](https://www.youtube.com/watch?v=ZWhzl3wHQ2w&t=21s)                    |
-| 10   | Designing the Architecture and Workflow of a Hydra DApp | [Video 10](https://www.youtube.com/watch?v=QkBxFXcadzc&t=114s)                  |
-| 11.1 | Setting Up a Smart Contract Development Environment     | [Video 11.1](https://www.youtube.com/watch?v=NswrmZsVfYw&t=1s)                  |
-| 11.2 | Setting Up a Smart Contract Development Environment     | [Video 11.2](https://www.youtube.com/watch?v=Bl35omHNsN0&t=834s)                |
-| 12   | Writing Smart Contracts for Hydra                       | [Video 12](https://www.youtube.com/watch?v=BItmEbYVXS4&t=267s)                  |
-| 13.1 | Integrating Smart Contracts with the Hydra Backend      | [Video 13.1](https://www.youtube.com/watch?v=C03JzwGPrdk&t=592s)                |
-| 13.2 | Integrating Smart Contracts with the Hydra Backend      | [Video 13.2](https://www.youtube.com/watch?v=WVYARQD6D14&t=17s)                 |
-| 13.3 | Integrating Smart Contracts with the Hydra Backend      | [Video 13.3](https://www.youtube.com/watch?v=Rpv8bAgLVPE&t=42s)                 |
-| 14.1 | Building the Frontend Interface for a Hydra DApp        | [Video 14.1](https://www.youtube.com/watch?v=D2BNWGlLce0&t=682s)                |
-| 14.2 | Building the Frontend Interface for a Hydra DApp        | [Video 14.2](https://www.youtube.com/watch?v=w2soqNUhTEw&t=52s)                 |
-| 15.1 | Testing and Validating the Hydra DApp                   | [Video 15.1](https://hydra-course-2025.vercel.app/document/chapter-02/video-07) |
-| 15.2 | Testing and Validating the Hydra DApp                   | [Video 15.2](https://hydra-course-2025.vercel.app/document/chapter-02/video-07) |
-| 16   | Deploying and Showcasing Your Hydra DApp                | [Video 16](https://hydra-course-2025.vercel.app/document/chapter-02/video-08)   |
+| #    | Title                                                   | YouTube Link                                                      |
+| ---- | ------------------------------------------------------- | ----------------------------------------------------------------- |
+| 9    | Introduction to Hydra-powered DApps                     | [Video 9](https://www.youtube.com/watch?v=ZWhzl3wHQ2w&t=21s)      |
+| 10   | Designing the Architecture and Workflow of a Hydra DApp | [Video 10](https://www.youtube.com/watch?v=QkBxFXcadzc&t=114s)    |
+| 11.1 | Setting Up a Smart Contract Development Environment     | [Video 11.1](https://www.youtube.com/watch?v=NswrmZsVfYw&t=1s)    |
+| 11.2 | Setting Up a Smart Contract Development Environment     | [Video 11.2](https://www.youtube.com/watch?v=Bl35omHNsN0&t=834s)  |
+| 12   | Writing Smart Contracts for Hydra                       | [Video 12](https://www.youtube.com/watch?v=BItmEbYVXS4&t=267s)    |
+| 13.1 | Integrating Smart Contracts with the Hydra Backend      | [Video 13.1](https://www.youtube.com/watch?v=C03JzwGPrdk&t=592s)  |
+| 13.2 | Integrating Smart Contracts with the Hydra Backend      | [Video 13.2](https://www.youtube.com/watch?v=WVYARQD6D14&t=17s)   |
+| 13.3 | Integrating Smart Contracts with the Hydra Backend      | [Video 13.3](https://www.youtube.com/watch?v=Rpv8bAgLVPE&t=42s)   |
+| 14.1 | Building the Frontend Interface for a Hydra DApp        | [Video 14.1](https://www.youtube.com/watch?v=D2BNWGlLce0&t=682s)  |
+| 14.2 | Building the Frontend Interface for a Hydra DApp        | [Video 14.2](https://www.youtube.com/watch?v=w2soqNUhTEw&t=52s)   |
+| 15.1 | Testing and Validating the Hydra DApp                   | [Video 15.1](https://www.youtube.com/watch?v=3ztS4P7ales)         |
+| 15.2 | Testing and Validating the Hydra DApp                   | [Video 15.2](https://www.youtube.com/watch?v=VD2lUK4L8IY&t=1565s) |
+| 16   | Deploying and Showcasing Your Hydra DApp                | [Video 16](https://www.youtube.com/watch?v=6OlRTVuIYgM)           |
 
 ---
 
