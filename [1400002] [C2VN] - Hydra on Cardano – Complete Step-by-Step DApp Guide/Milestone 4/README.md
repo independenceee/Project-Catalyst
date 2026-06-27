@@ -77,7 +77,7 @@ The final documentation (PCR & PCV) summarizes all project results, lessons lear
 
 | Deliverable                     | Link            |
 | ------------------------------- | --------------- |
-| 📄 Final Close-out Report (PCR) | [View Report]() |
+| 📄 Final Close-out Report (PCR) | [View Report](https://docs.google.com/document/d/1zOH65qLrSQ7vyK_Vod7CoIVPsl_TND3FglSY79omLO4/edit?tab=t.0#heading=h.8xnre5dcwi4b) |
 | 🎞️ Final Close-out Video (PCV)  | [Watch Video]() |
 
 **Contents Include:**
