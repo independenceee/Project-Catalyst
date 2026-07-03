@@ -21,32 +21,7 @@ This milestone delivers the following key outputs:
 
 ---
 
-## **1. Course Introduction Articles**
-
----
-
-## **2. Student Feedback Survey**
-
-A survey was conducted among students upon completion of the course to collect feedback on satisfaction, content quality, and suggestions for future improvements.
-
-**Survey Summary (31 responses):**
-
-| Metric                                | Result                                                                                    |
-| ------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Overall course rating 4–5/5           | 96.8% rated Good or Excellent                                                             |
-| Teaching speed appropriate            | 83.9%                                                                                     |
-| Would definitely recommend (NPS 9–10) | 71%                                                                                       |
-| Interest in advanced Cardano learning | 94%                                                                                       |
-| Top improvement requests              | More hands-on examples (36.7%) · PDF/reference docs (33.3%) · More content detail (26.7%) |
-
-**Links:** [View Survey Results](https://docs.google.com/spreadsheets/d/1G7nbqwxpkl4ek3dLmaaZ9o86O00h1ZVw2v0Q_3e4gSA/edit?gid=836569943#gid=836569943) · [View Feedback Report with Charts](feedback-report.pdf)
-
-> The survey is conducted in **Vietnamese** — the course's delivery language. The Feedback Report (PDF) contains the Google Form response charts; the summary statistics above (in English) are provided in this document for reviewers.
-
-
----
-
-## **3. AMA Session & Student Project Evaluation**
+## **1. AMA Session & Student Project Evaluation**
 
 An AMA (Ask Me Anything) session was organized for enrolled students to ask questions and receive guidance from mentors on Cardano dApp development topics covered throughout the course.
 
@@ -68,6 +43,35 @@ An AMA (Ask Me Anything) session was organized for enrolled students to ask ques
 The AMA session was recorded and shared publicly.
 
 **Link:** [Watch AMA Recording](https://www.youtube.com/watch?v=lr_ZLhX3s-I)
+
+---
+
+## **2. Student Feedback Survey**
+
+A survey was conducted among students upon completion of the course to collect feedback on satisfaction, content quality, and suggestions for future improvements.
+
+**Survey Summary (31 responses):**
+
+| Metric                                | Result                                                                                    |
+| ------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Overall course rating 4–5/5           | 96.8% rated Good or Excellent                                                             |
+| Teaching speed appropriate            | 83.9%                                                                                     |
+| Would definitely recommend (NPS 9–10) | 71%                                                                                       |
+| Interest in advanced Cardano learning | 94%                                                                                       |
+| Top improvement requests              | More hands-on examples (36.7%) · PDF/reference docs (33.3%) · More content detail (26.7%) |
+
+**Links:** [View Survey Results](https://docs.google.com/spreadsheets/d/1G7nbqwxpkl4ek3dLmaaZ9o86O00h1ZVw2v0Q_3e4gSA/edit?gid=836569943#gid=836569943) · [View Feedback Report with Charts](feedback-report.pdf)
+
+> The survey is conducted in **Vietnamese** — the course's delivery language. The Feedback Report (PDF) contains the Google Form response charts; the summary statistics above (in English) are provided in this document for reviewers.
+
+---
+
+
+## 3. Marketing & Community Engagement
+
+All marketing and community engagement activities for this milestone have been completed and are documented in the following Google Sheets file: [Marketing & Community Evidence](https://docs.google.com/spreadsheets/d/1RYYxEfoF_2tDkYjJNN5ZY7yhwcTrV9iANOWq0PKxjYc/edit?gid=409940948#gid=409940948)
+
+The spreadsheet contains links and screenshots of the published course introduction posts on Forum and Telegram, as well as the marketing activity description file, serving as consolidated evidence for this milestone.
 
 ---
 
