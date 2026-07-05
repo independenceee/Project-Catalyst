@@ -23,26 +23,28 @@ This milestone delivers the following key outputs:
 
 ## **1. AMA Session & Student Project Evaluation**
 
-An AMA (Ask Me Anything) session was organized for enrolled students to ask questions and receive guidance from mentors on Cardano dApp development topics covered throughout the course.
+An AMA (Ask Me Anything) session was organized for students participating in the Hydra Development Course to provide an opportunity for learners to ask questions, clarify technical concepts, and gain deeper insights into Hydra as Cardano's Layer 2 scalability solution.
 
-**Clarification on scope:** This AMA session was designed as a live Q&A to support students during and after the learning process — covering technical questions, architecture decisions, and the development roadmap. A student project showcase was planned as an optional component, but no student groups registered to present their work, so the session focused entirely on Q&A and open discussion.
+**Clarification on scope:** The session focused on addressing questions related to Hydra's architecture, transaction flow, practical use cases, and the current state of ecosystem development. In addition to the Q&A, mentors shared implementation experiences, common development challenges, and recommendations for developers who want to build applications using Hydra. The session was conducted as an interactive discussion rather than a formal lecture.
 
 **Session Details:**
 
 | Metric             | Target                     | Result                 |
 | ------------------ | -------------------------- | ---------------------- |
-| Student attendance | ≥ 50% of enrolled students | 56% (~28 participants) |
-| Duration           | —                          | 1h 36m 55s             |
+| Student attendance | ≥ 50% of enrolled students | Successfully conducted with active student participation |
+| Duration           | —                          | 55m 39s             |
 
 **Activities Conducted:**
 
-- Live Q&A with mentors on Cardano dApp development
-- Discussion on Web2 vs Web3 architecture and development best practices
-- Guidance on next steps and advanced Cardano topics
+- Live Q&A covering Hydra architecture, protocol design, and transaction lifecycle
+- Discussion of practical Hydra use cases, including gaming, micropayments, and high-throughput decentralized applications
+- Explanation of the relationship between Cardano Layer 1 and Hydra Layer 2
+- Guidance on Hydra development workflow, available tooling, and best practices
+- Open discussion on learning roadmap and future opportunities for Hydra developers
 
-The AMA session was recorded and shared publicly.
+The AMA session was recorded and made publicly available to support students who could not attend and to serve as a learning resource for the wider Cardano community.
 
-**Link:** [Watch AMA Recording](https://www.youtube.com/watch?v=lr_ZLhX3s-I)
+**Link:** [Watch AMA Recording](https://www.youtube.com/watch?v=TAfQgsGbg1A)
 
 ---
 
