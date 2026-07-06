@@ -50,17 +50,32 @@ The AMA session was recorded and made publicly available to support students who
 
 ## **2. Student Feedback Survey**
 
-A survey was conducted among students upon completion of the course to collect feedback on satisfaction, content quality, and suggestions for future improvements.
+A post-course survey was conducted to gather student feedback on learning outcomes, course quality, and suggestions for future improvements.
 
-**Survey Summary (31 responses):**
+**Survey Summary (23 responses):**
 
 | Metric                                | Result                                                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Overall course rating 4–5/5           | 96.8% rated Good or Excellent                                                             |
-| Teaching speed appropriate            | 83.9%                                                                                     |
-| Would definitely recommend (NPS 9–10) | 71%                                                                                       |
-| Interest in advanced Cardano learning | 94%                                                                                       |
-| Top improvement requests              | More hands-on examples (36.7%) · PDF/reference docs (33.3%) · More content detail (26.7%) |
+| Overall course rating 4–5/5           | 87.5%                                                             |
+| Overall course rating (5/5)            | 87.5% (100% rated 4–5/5)                                                                                   |
+| Step-by-step guidance rated 5/5 | 100%                                                                                     |
+| Reported understanding Hydra architecture after the course | 100%                                                                                       |
+| Confident building a simple Hydra DApp independently              | 75% |
+| Confident with documentation/reference materials              | 25% |
+| Students reporting they could not build a Hydra DApp             | 0% |
+
+**Top feedback themes:**
+
+- Hands-on laboratory exercises (Hydra node setup, Head lifecycle, and TipJar demo) were the most appreciated part of the course.
+- Students valued the clear, step-by-step explanation of advanced Hydra and Layer-2 concepts.
+- The end-to-end learning path—from Hydra infrastructure and Aiken smart contracts to frontend integration—was highlighted as a major strength.
+
+**Top improvement requests:**
+
+- More advanced real-world case studies and production-level scenarios.
+- Additional challenge exercises after each module.
+- Cheat sheets and quick-reference documentation.
+- Advanced topics such as Hydra testing, Layer-2 security, and performance optimization.
 
 **Links:** [View Survey Results](https://docs.google.com/spreadsheets/d/1vVb2q7oTg9RYIQzWMNrYmoksEPQ9Xl4EUl25ws4aGo4/edit?gid=1980743156#gid=1980743156) · [View Feedback Report with Charts](https://docs.google.com/document/d/1STWXX62sLdCGmKyX9Cq6Ud70R5PwxwnXREOsY4z0YcM/edit?tab=t.0)
 
